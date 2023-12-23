@@ -1,0 +1,15 @@
+.container{
+    min-height: 100vh;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+.container a{
+    text-decoration: none;
+    color: #000;
+}
+
+.container li{
+    list-style: none;
+}
